@@ -1,0 +1,74 @@
+1.JAVA
+1.JAVA-20240321T003818Z-001.zip
+1.JAVA-20240417T081914Z-001.zip
+1.프로그래밍 언어 활용 및 응용 시험지(본).pdf
+12장_컬렉션프레임워크.pdf
+12장_컬렉션프레임워크.pdf-20240418T021822Z-001.zip
+13장_내부클래스,람다식,스트림 (1).pdf
+13장_내부클래스,람다식,스트림 (2).pdf
+13장_내부클래스,람다식,스트림.pdf
+14장_예외처리 (1).pdf
+14장_예외처리.pdf
+15장_자바입출력 (1).pdf
+15장_자바입출력.pdf
+1장_Maria 데이터베이스 설치.pdf
+2.데이터베이스 구현 답지(본) (1).sql
+2.데이터베이스 구현 답지(본).sql
+2.데이터베이스 구현 시험지(본).pdf
+2022년 10월 22일 GTQ(일러스트) 기출문제
+2022년 10월 22일 GTQ(포토샵) 기출문제
+2022년 11월 26일 GTQ(포토샵) 기출문제
+2022년 12월 24일 GTQ(포토샵) 기출문제
+2022년 12월 24일 GTQi(일러스트) 기출문제
+2022년 2월 26일 GTQi(일러스트) 기출문제
+2022년 4월 23일 GTQi(일러스트) 기출문제
+2022년 6월 25일 GTQi(일러스트) 기출문제
+2022년 8월 27일 GTQ(일러스트) 기출문제
+2022년 8월 27일 GTQ(포토샵) 기출문제
+2022년 9월 24일 GTQ(포토샵) 기출문제
+2024 방특 GTQ 수업자료.zip
+2장_테이블 만들기 (1).pdf
+2장_테이블 만들기.pdf
+3장_데이터 추가하기.pdf
+4장_함수,JOIN,키 (1).pdf
+4장_함수,JOIN,키.pdf
+5-2. 게시물 데이터(10만건).sql
+5장. 뷰,인덱스 (1).pdf
+5장. 뷰,인덱스.pdf
+6장_데이터베이스 설계.pdf
+adksetup.exe
+adkwinpesetup.exe
+apples-2788599_1280 (1).jpg
+apples-2788599_1280 (2).jpg
+buddha-221742_1920.jpg
+buddha-6027762_1920 (1).jpg
+buddha-6027762_1920.jpg
+dbeaver-ce-24.0.3-x86_64-setup.exe
+desktop.ini
+eclipse-inst-jre-win64.exe
+eclipse-java-2024-03-R-win32-x86_64.zip
+Git-2.43.0-64-bit.exe
+GmarketSansOTF.zip
+GTQ-2022년 4월-12월 (1).zip
+GTQ-2022년 4월-12월.zip
+housing-154839_640 (1).png
+housing-154839_640.png
+jdk-17_windows-x64_bin.exe
+KakaoTalk_Setup (1).exe
+KakaoTalk_Setup (2).exe
+KakaoTalk_Setup (3).exe
+KakaoTalk_Setup.exe
+mariadb-11.3.2-winx64.msi
+node-v20.12.2-x64.msi
+OBS-Studio-30.0.2-Full-Installer-x64.exe
+test (1).png
+test.png
+Vrew-Installer-1.13.2.exe
+VSCodeUserSetup-x64-1.86.2.exe
+★GTQ 포토샵 1급 교제 소스 (1).zip
+그래픽 수업 자료.zip
+수업자료 (1).zip
+수업자료.zip
+수업자료1.zip
+컴활2급 실기 예제
+컴활2급 실기 예제.zip
